@@ -10,4 +10,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the U
 
 Published at EMNLP 2024.
 
-Code repository: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+Code repository: [Universal_Truthfulness_Hyperplane](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)

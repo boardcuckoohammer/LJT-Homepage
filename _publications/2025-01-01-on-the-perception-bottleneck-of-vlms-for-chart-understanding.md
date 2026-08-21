@@ -10,4 +10,4 @@ citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxia
 
 Published on ArXiv in 2025.
 
-Code repository: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+Code repository: [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart)
